@@ -1,0 +1,45 @@
+1.8.1
+=================
+1.8.1
+- possibilidade de se alterar uma row com primary key sendo string na classe Cylix_Model_Row
+1.8.0
+- inclusão de metodo destroy() na classe Cylix_Model_Row
+1.7.2
+- ajuste na classe Form
+- inclusao de convertToFloat
+1.7.1
+- quando o valor do atributo for igual a '(null)' fica = NULL
+1.7.0
+- remoção do atributo _convert do model
+- inclusao do atributo _convert no model_row para auto conversão usando metodos convert
+1.6.2
+- inclusao de configuracao estatica para que qualquer envio seja por SMTP no main_settings
+1.6.1
+- ajuste para a utilizacao do metodo findBy
+1.6.0
+- inclusao de tratamento de scopes do tipo data
+- inclusao de metodo parse de date e float na classe SQL
+1.5.3
+- inclusao da funcao noRender na View
+- inclusao da funcao findBy na Model
+1.5.2
+- inclusao de metodos ge/set nos models
+- ajuste na classe cache
+1.5.1
+- tratamento para no salvar colunas inexistente no ModelRow
+- salvar o plugin no tmp de forma mais prática
+1.5.0
+- inclusao de Plugin
+1.4.5
+- tratamento na DataBase quando nao conseguir conectar ao banco local
+1.4.4
+- App tem possibilidade de retornar View
+1.4.3
+- adaptacao para formato api
+- possibilidade de forçar um request e obter a view resultante
+1.4.2 
+- ajustes na classe Form
+1.4.1 
+- inclusao de reconhecimento de plugins
+1.3.3 
+- ajustes nos modelos
