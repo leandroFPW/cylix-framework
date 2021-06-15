@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Classe base para qualker modelo
+ * Classe base para qualquer modelo
  * indica-se fazer um M_Abstract extendendo esta classe
  */
 

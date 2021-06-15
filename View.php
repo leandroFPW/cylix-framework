@@ -1,5 +1,5 @@
 <?php
-
+//classe para camada view
 class Cylix_View extends stdClass {
 
     //var

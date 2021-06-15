@@ -34,4 +34,3 @@ class Cylix_Request{
         return $array;
     }
 }
-?>

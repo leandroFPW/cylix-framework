@@ -28,5 +28,3 @@ class Cylix_Helper {
     }
 
 }
-
-?>
